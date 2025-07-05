@@ -76,11 +76,6 @@ This project aims to present actionable visual insights that can support perform
 - Learned to balance **data complexity** with **user-friendly reporting**.
 
 ---
-
-## 📷 Dashboard Preview
-
-![Dashboard Screenshot](Screenshot 2025-07-05 154655.png)
-
 ---
 
 ## 📁 Repository Contents
